@@ -1,6 +1,6 @@
 $(function(){
   var oneUp = function(){
-    num--;
+    num++;
   };
   var printNum = function(){
     var num = 0;
